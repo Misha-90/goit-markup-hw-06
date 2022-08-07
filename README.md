@@ -1,4 +1,4 @@
-# goit-markup-hw-04
+# goit-markup-hw-06
 
 <!-- .visually-hidden {
   position: absolute;
@@ -20,4 +20,4 @@
 									      <use href="./img/icons.svg#icon-twitter"></use>
 								</svg> -->
 
-<li class="contact-tel"><a href="tel:+380961111111" class="header-tel link"><svg class="contact-icon"width="10px" height="16px"><use href="./img/icon-header.svg#icon-smartphone"></use><svg>+38 096 111 11 11</a></li>
+<!-- <li class="contact-tel"><a href="tel:+380961111111" class="header-tel link"><svg class="contact-icon"width="10px" height="16px"><use href="./img/icon-header.svg#icon-smartphone"></use><svg>+38 096 111 11 11</a></li> -->
